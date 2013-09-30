@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<w:document
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main"
+        mc:Ignorable="w14 wp14">
+    <w:body>
+        <w:p w:rsidR="00F25244" w:rsidRPr="007D443F" w:rsidRDefault="007D443F">
+            <w:pPr>
+                <w:rPr>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="007D443F">
+                <w:rPr>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+                <w:t>This document is a simple demo of XmlUtils.unmarshallFromTemplate</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="00F25244" w:rsidRPr="007D443F" w:rsidRDefault="00F25244">
+            <w:pPr>
+                <w:rPr>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+            </w:pPr>
+        </w:p>
+        <w:p w:rsidR="00F25244" w:rsidRPr="007D443F" w:rsidRDefault="007D443F">
+            <w:pPr>
+                <w:rPr>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="007D443F">
+                <w:rPr>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+                <w:t>My favourite colour is ${colour}.</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="00F25244" w:rsidRPr="007D443F" w:rsidRDefault="00F25244">
+            <w:pPr>
+                <w:rPr>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+            </w:pPr>
+        </w:p>
+        <w:p w:rsidR="00F25244" w:rsidRDefault="007D443F">
+            <w:pPr>
+                <w:rPr>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="007D443F">
+                <w:rPr>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+                <w:t>My favourite ice cream is ${icecream}.</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="006B45DB" w:rsidRDefault="006B45DB">
+            <w:pPr>
+                <w:rPr>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+            </w:pPr>
+        </w:p>
+        <w:p w:rsidR="006B45DB" w:rsidRPr="007D443F" w:rsidRDefault="006B45DB" w:rsidP="006B45DB">
+            <w:pPr>
+                <w:rPr>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+            </w:pPr>
+            <w:r w:rsidRPr="007D443F">
+                <w:rPr>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+                <w:t xml:space="preserve">My </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+                <w:t xml:space="preserve">barcode </w:t>
+            </w:r>
+            <w:r w:rsidRPr="007D443F">
+                <w:rPr>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+                <w:t xml:space="preserve"> </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+                <w:t>is</w:t>
+            </w:r>
+            <w:r w:rsidRPr="007D443F">
+                <w:rPr>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+                <w:t xml:space="preserve"> </w:t>
+            </w:r>
+            <w:r>
+                <w:rPr>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+                <w:t xml:space="preserve"> </w:t>
+            </w:r>
+            <w:r w:rsidRPr="007D443F">
+                <w:rPr>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+                <w:t>${</w:t>
+            </w:r>
+            <w:bookmarkStart w:id="0" w:name="_GoBack"/>
+            <w:bookmarkEnd w:id="0"/>
+            <w:r>
+                <w:rPr>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+                <w:t xml:space="preserve">barcode </w:t>
+            </w:r>
+            <w:r w:rsidRPr="007D443F">
+                <w:rPr>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+                <w:t>}.</w:t>
+            </w:r>
+        </w:p>
+        <w:p w:rsidR="006B45DB" w:rsidRPr="007D443F" w:rsidRDefault="006B45DB">
+            <w:pPr>
+                <w:rPr>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+            </w:pPr>
+        </w:p>
+        <w:p w:rsidR="00F25244" w:rsidRPr="007D443F" w:rsidRDefault="00F25244">
+            <w:pPr>
+                <w:rPr>
+                    <w:lang w:val="en-US"/>
+                </w:rPr>
+            </w:pPr>
+        </w:p>
+        <w:p w:rsidR="00F25244" w:rsidRDefault="007D443F">
+            <w:r>
+                <w:t>That's all folks.</w:t>
+            </w:r>
+        </w:p>
+        <w:sectPr w:rsidR="00F25244">
+            <w:pgSz w:w="11906" w:h="16838"/>
+            <w:pgMar w:top="1134" w:right="850" w:bottom="1134" w:left="1701" w:header="708" w:footer="708"
+                     w:gutter="0"/>
+            <w:cols w:space="708"/>
+            <w:docGrid w:linePitch="360"/>
+        </w:sectPr>
+    </w:body>
+</w:document>

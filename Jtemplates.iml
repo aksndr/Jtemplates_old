@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" packagePrefix="ru.sibconsoft.rtfgenerator" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="templates" />
+    <orderEntry type="library" name="com.lowagie:itext:4.2.1" level="project" />
+    <orderEntry type="library" name="itextpdf-5.1.1" level="project" />
+    <orderEntry type="library" name="net.sourceforge.rtftemplate:rtftemplate:1.0.1-b131" level="project" />
+    <orderEntry type="library" name="org.docx4j:docx4j:2.8.1" level="project" />
+    <orderEntry type="library" name="batik" level="project" />
+    <orderEntry type="library" name="mmsc" level="project" />
+  </component>
+</module>
+
